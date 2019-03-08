@@ -1,0 +1,49 @@
+body{
+	font-family:sans-serif;
+}
+
+.head{
+	width: 100%;
+	height: 130px;
+}
+
+.imghead{
+	width: 10%;
+	margin: 10px;
+	float: left;
+}
+
+.titlehead{
+	width: 80%;
+	margin: 10px;
+	height: 100px;
+	float: right; 
+}
+
+.titlehead .head{
+	margin-top: 10px;
+	margin-bottom: 40px;
+	color: orange;
+	font-size: 30px;
+	height: 20px;
+	font-style: italic;
+	text-shadow: 2px 1px #000;
+}
+
+.content{
+	width: 100%;
+	margin: 10px;
+}
+
+span{
+	font-size: 45px;
+}
+
+li a{
+	line-height: 1.5;
+	color: orange;
+}
+li a:hover
+{
+	color:green;
+}
